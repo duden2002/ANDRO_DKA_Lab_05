@@ -1,12 +1,16 @@
 # ANDRO_DKA_Lab_05
-Лабораторная работа №5 в android studio
+Лабораторная работа №5 в android studio (UPDATE: Добавлен шестой маркер, и настройка отоброжения карты (нормальная, ландшафт, спутник))
 
 Задания состояло в том, чтобы создать мобильное приложение на основе карт 2gis, и добавление маркеров на карту а также их описание. 
+
+![image](https://user-images.githubusercontent.com/70965647/202674262-89ee762f-482a-4ce6-bc93-c52754e55450.png)
+
 
 
 Главная страница приложения:
 
-![image](https://user-images.githubusercontent.com/70965647/201888942-1cc42b42-9fa4-4335-9889-d8d128182ddf.png)
+![image](https://user-images.githubusercontent.com/70965647/202674147-8f2eb4da-9f3b-42bb-9b0b-d6b82e6285a1.png)
+
 
 
 Маркер школы №26:
